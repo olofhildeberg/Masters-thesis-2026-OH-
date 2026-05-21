@@ -55,7 +55,7 @@ The scripts generate plots showing the final GHZ fidelity as a function of the r
 
 The code requires Python and common scientific-computing packages such as:
 
-
+```bash
 numpy
 matplotlib
 qiskit
